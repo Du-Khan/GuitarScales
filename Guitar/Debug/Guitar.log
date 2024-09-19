@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\dirty andr\Desktop\Guitar\Guitar\MyForm.h(1004,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dirty andr\Desktop\Guitar\Guitar\MyForm.h(1030,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dirty andr\Desktop\Guitar\Guitar\Source.cpp(10,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Source.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Guitar.vcxproj -> C:\Users\dirty andr\Desktop\Guitar\Debug\Guitar.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

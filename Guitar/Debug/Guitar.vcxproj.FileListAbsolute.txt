@@ -1,0 +1,8 @@
+Z:\disk F\repos\Guitar\Guitar\Debug\Guitar.vcxproj.AssemblyReference.cache
+Z:\disk F\repos\Guitar\Guitar\Debug\Guitar.vcxproj.SuggestedBindingRedirects.cache
+Z:\disk F\repos\Guitar\Guitar\Debug\Guitar.MyForm.resources
+Z:\disk F\repos\Guitar\Guitar\Debug\Guitar.vcxproj.GenerateResource.cache
+C:\Users\dirty andr\Desktop\Guitar\Guitar\Debug\Guitar.vcxproj.AssemblyReference.cache
+C:\Users\dirty andr\Desktop\Guitar\Guitar\Debug\Guitar.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\dirty andr\Desktop\Guitar\Guitar\Debug\Guitar.MyForm.resources
+C:\Users\dirty andr\Desktop\Guitar\Guitar\Debug\Guitar.vcxproj.GenerateResource.cache
